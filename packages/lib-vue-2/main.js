@@ -1,4 +1,4 @@
-import { NewLButton } from '../components/src/main'
+import { NewLButton } from '../components'
 
 export default {
   install(Vue) {

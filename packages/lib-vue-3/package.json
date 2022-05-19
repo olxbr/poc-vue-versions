@@ -1,11 +1,11 @@
 {
-  "name": "local-ds-3",
+  "name": "lib-vue-3",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "plugin": "vue-cli-service build --target lib --name local-ds main.js"
+    "plugin": "vue-cli-service build --target lib --name bundle-vue-3 main.js"
   },
   "dependencies": {
     "core-js": "^3.8.3",
