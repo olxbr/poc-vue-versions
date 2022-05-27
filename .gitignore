@@ -57,4 +57,4 @@ node_modules/
 packages/**/dist
 
 # mock
-packages/lina-tokens/__tests__/__build
+packages/lina-tokens/__tests__/__build!.github/*
