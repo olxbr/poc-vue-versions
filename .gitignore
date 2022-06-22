@@ -58,3 +58,4 @@ packages/**/dist
 
 # mock
 packages/lina-tokens/__tests__/__build
+!.github/*
